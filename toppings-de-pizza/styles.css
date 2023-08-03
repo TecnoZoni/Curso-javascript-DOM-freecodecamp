@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    height: 100vh;
     text-align: center;
     background: url(./imagenes/pizza.jpg) no-repeat center/cover;
     padding: 2rem;
